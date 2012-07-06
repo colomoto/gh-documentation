@@ -1,0 +1,5 @@
+org.colomoto.mddlib
+org.colomoto.mddlib.internal
+org.colomoto.mddlib.logicalfunction
+org.colomoto.mddlib.logicalfunction.operators
+org.colomoto.mddlib.operators
