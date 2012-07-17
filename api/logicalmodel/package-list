@@ -1,3 +1,9 @@
+org.colomoto.common.xml
 org.colomoto.logicalmodel
+org.colomoto.logicalmodel.io
+org.colomoto.logicalmodel.io.ginml
+org.colomoto.logicalmodel.io.sbml
 org.colomoto.logicalmodel.perturbation
+org.colomoto.logicalmodel.services
+org.colomoto.logicalmodel.tool.inferinteraction
 org.colomoto.logicalmodel.tool.stablestate
